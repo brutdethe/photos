@@ -1,0 +1,1953 @@
+[
+  {
+    "100": "./images/001_hu_59eb00caf75f9d44.jpg",
+    "20": "./images/001_hu_98567e4f8dd22cbb.jpg",
+    "250": "./images/001_hu_8270abe955a70d57.jpg",
+    "500": "./images/001_hu_1b8c96e58efe9d22.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": { "Date": "0001-01-01T00:00:00Z", "Lat": 0, "Long": 0, "Tags": {} },
+    "full": "./images/001.jpg",
+    "height": 1150,
+    "name": "001.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/002_hu_6dc9ea1a30e0abd1.jpg",
+    "20": "./images/002_hu_f757bf58ca662f01.jpg",
+    "250": "./images/002_hu_1e94136287fdcbdf.jpg",
+    "500": "./images/002_hu_cf4b9e5a4eb413ad.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": { "Date": "0001-01-01T00:00:00Z", "Lat": 0, "Long": 0, "Tags": {} },
+    "full": "./images/002.jpg",
+    "height": 1150,
+    "name": "002.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/003_hu_f98be6e2ce7808f8.jpg",
+    "20": "./images/003_hu_739cf5651f91ad8a.jpg",
+    "250": "./images/003_hu_84e68a7d718ede42.jpg",
+    "500": "./images/003_hu_65c7d85ea6f0c5c8.jpg",
+    "colors": [{}, {}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-20T10:25:18+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/122",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/003.jpg",
+    "height": 863,
+    "name": "003.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/004_hu_fe079bba16c3458a.jpg",
+    "20": "./images/004_hu_547847fd9d8d5ef.jpg",
+    "250": "./images/004_hu_f96d447b4c3039a.jpg",
+    "500": "./images/004_hu_d37d733b96ac1a6e.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-20T16:01:40+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/118",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/004.jpg",
+    "height": 1150,
+    "name": "004.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/005_hu_6a8aab5572eb6f1f.jpg",
+    "20": "./images/005_hu_c030c7f535bbe94.jpg",
+    "250": "./images/005_hu_cd9ad2f0bc437dd7.jpg",
+    "500": "./images/005_hu_39722b2e34444ba8.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-20T17:22:39+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/121",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/005.jpg",
+    "height": 863,
+    "name": "005.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/006_hu_7a6213529d6be6e7.jpg",
+    "20": "./images/006_hu_812dd0b8bdb27cca.jpg",
+    "250": "./images/006_hu_4a9db6afe39e3ccb.jpg",
+    "500": "./images/006_hu_2f2525bce957fb81.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-20T17:34:36+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/696",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/006.jpg",
+    "height": 1150,
+    "name": "006.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/007_hu_5c58f7d3a58eb7a1.jpg",
+    "20": "./images/007_hu_319752ed15b8dfb0.jpg",
+    "250": "./images/007_hu_8982ca46b19798c4.jpg",
+    "500": "./images/007_hu_4a61f9d335cd71ac.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T10:46:57+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/165",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/007.jpg",
+    "height": 863,
+    "name": "007.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/008_hu_83b3c4766e22a7a1.jpg",
+    "20": "./images/008_hu_7864df6876320e52.jpg",
+    "250": "./images/008_hu_417b01f469ce630a.jpg",
+    "500": "./images/008_hu_f2662d9c251ac016.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T10:47:25+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/121",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/008.jpg",
+    "height": 863,
+    "name": "008.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/009_hu_702cc3ca4417923a.jpg",
+    "20": "./images/009_hu_9e53dbc6b1dcd026.jpg",
+    "250": "./images/009_hu_11ce0166b7180f1.jpg",
+    "500": "./images/009_hu_cb5ca3d24db64d30.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T12:00:37+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/60",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/009.jpg",
+    "height": 863,
+    "name": "009.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/010_hu_4ffe0ed2b9d38e79.jpg",
+    "20": "./images/010_hu_c9c6d2fddda7fd9e.jpg",
+    "250": "./images/010_hu_e39f6bc444d3cd2a.jpg",
+    "500": "./images/010_hu_6171ebc7c842a882.jpg",
+    "colors": [{}, {}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T12:36:31+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/99",
+        "FNumber": "12/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 1.54mm f/2.4"
+      }
+    },
+    "full": "./images/010.jpg",
+    "height": 863,
+    "name": "010.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/011_hu_c8d3424ecae3ca66.jpg",
+    "20": "./images/011_hu_cbe508a93abaa0a9.jpg",
+    "250": "./images/011_hu_ae39e57107253446.jpg",
+    "500": "./images/011_hu_8cd98a035eb5a4bf.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T16:19:49+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/261",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/011.jpg",
+    "height": 863,
+    "name": "011.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/012_hu_33c934d3875addfb.jpg",
+    "20": "./images/012_hu_ee61f66b72dc9c6.jpg",
+    "250": "./images/012_hu_ff8004f82efafa25.jpg",
+    "500": "./images/012_hu_75c895d7d0b54510.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T18:02:57+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/358",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/012.jpg",
+    "height": 1150,
+    "name": "012.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/013_hu_1f9b62a74ef91a6c.jpg",
+    "20": "./images/013_hu_7f3cd82aa537ffe1.jpg",
+    "250": "./images/013_hu_676eceb1450c36f9.jpg",
+    "500": "./images/013_hu_7046c72683cbed43.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T18:27:48+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/121",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/013.jpg",
+    "height": 863,
+    "name": "013.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/014_hu_f92900e5e1303fe2.jpg",
+    "20": "./images/014_hu_64ac35f9c7ddcabb.jpg",
+    "250": "./images/014_hu_2c1ebb1d7bef4652.jpg",
+    "500": "./images/014_hu_206eec661caa8d31.jpg",
+    "colors": [{}, {}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T18:27:56+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/126",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/014.jpg",
+    "height": 863,
+    "name": "014.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/015_hu_198060af5f7391c7.jpg",
+    "20": "./images/015_hu_3a95cd1f8764ae3e.jpg",
+    "250": "./images/015_hu_8053c65077c1c74d.jpg",
+    "500": "./images/015_hu_551908a0c936ed0.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T18:28:17+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/122",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/015.jpg",
+    "height": 863,
+    "name": "015.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/016_hu_8644ad86b89cee7c.jpg",
+    "20": "./images/016_hu_1354b6ab6d1bf76c.jpg",
+    "250": "./images/016_hu_e9565858afe881b1.jpg",
+    "500": "./images/016_hu_d8ffd4f04b88af27.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T18:30:39+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/99",
+        "FNumber": "12/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 1.54mm f/2.4"
+      }
+    },
+    "full": "./images/016.jpg",
+    "height": 1150,
+    "name": "016.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/017_hu_cd3ff3ba0a2027dc.jpg",
+    "20": "./images/017_hu_e9eed686e5c437d0.jpg",
+    "250": "./images/017_hu_5de16d3659277b6b.jpg",
+    "500": "./images/017_hu_a3d37727f8584606.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T18:31:16+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/138",
+        "FNumber": "12/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 1.54mm f/2.4"
+      }
+    },
+    "full": "./images/017.jpg",
+    "height": 1150,
+    "name": "017.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/018_hu_a8520e56e8f8d002.jpg",
+    "20": "./images/018_hu_3996c373125676da.jpg",
+    "250": "./images/018_hu_89c6771bff9bf039.jpg",
+    "500": "./images/018_hu_2ed1f6b41fa0ca85.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T18:32:10+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/291",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/018.jpg",
+    "height": 1150,
+    "name": "018.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/019_hu_351eae95330d5661.jpg",
+    "20": "./images/019_hu_5539587ef861c285.jpg",
+    "250": "./images/019_hu_f99c939e99810689.jpg",
+    "500": "./images/019_hu_ec094bae162f564b.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T18:36:14+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/206",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/019.jpg",
+    "height": 1150,
+    "name": "019.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/020_hu_402fe252b1bd1b84.jpg",
+    "20": "./images/020_hu_5b65fe03954e30f8.jpg",
+    "250": "./images/020_hu_e523acfc9f8c800d.jpg",
+    "500": "./images/020_hu_6279ddb727e77071.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T18:36:56+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/122",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/020.jpg",
+    "height": 863,
+    "name": "020.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/021_hu_78355b593a4a609.jpg",
+    "20": "./images/021_hu_c8cdc815311eb202.jpg",
+    "250": "./images/021_hu_3b59840407f65fb4.jpg",
+    "500": "./images/021_hu_2cdc03c513071bab.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T18:37:38+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/179",
+        "FNumber": "12/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 1.54mm f/2.4"
+      }
+    },
+    "full": "./images/021.jpg",
+    "height": 1150,
+    "name": "021.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/022_hu_6dbab4af4ceb272c.jpg",
+    "20": "./images/022_hu_310a0d5127039fd5.jpg",
+    "250": "./images/022_hu_a0d85daf29e4b079.jpg",
+    "500": "./images/022_hu_cc5e0bef885c8af7.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T18:38:11+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/99",
+        "FNumber": "12/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 1.54mm f/2.4"
+      }
+    },
+    "full": "./images/022.jpg",
+    "height": 1150,
+    "name": "022.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/023_hu_272b6144efc291be.jpg",
+    "20": "./images/023_hu_675a105a9c4df53c.jpg",
+    "250": "./images/023_hu_7eb40aea4015ae85.jpg",
+    "500": "./images/023_hu_30b053af427089c0.jpg",
+    "colors": [{}, {}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-21T19:30:29+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/552",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/023.jpg",
+    "height": 1150,
+    "name": "023.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/024_hu_92b31638111e7478.jpg",
+    "20": "./images/024_hu_257be1711827c574.jpg",
+    "250": "./images/024_hu_4e667ad7b039dcd6.jpg",
+    "500": "./images/024_hu_555137bc486c7c47.jpg",
+    "colors": [{}, {}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-22T10:58:11+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/99",
+        "FNumber": "12/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 1.54mm f/2.4"
+      }
+    },
+    "full": "./images/024.jpg",
+    "height": 1150,
+    "name": "024.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/025_hu_b6fa5527d5bd13ea.jpg",
+    "20": "./images/025_hu_751cc1005b9f0fc1.jpg",
+    "250": "./images/025_hu_88542e163acf1de9.jpg",
+    "500": "./images/025_hu_ab629f9734bcae68.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-22T14:12:47+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/124",
+        "FNumber": "12/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 1.54mm f/2.4"
+      }
+    },
+    "full": "./images/025.jpg",
+    "height": 863,
+    "name": "025.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/026_hu_c482883494214770.jpg",
+    "20": "./images/026_hu_8584e2bf791d73d8.jpg",
+    "250": "./images/026_hu_b66a278c5c06d493.jpg",
+    "500": "./images/026_hu_4de71fb91f21219d.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-22T18:22:22+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/275",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/026.jpg",
+    "height": 863,
+    "name": "026.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/027_hu_8acba9231c48c8b7.jpg",
+    "20": "./images/027_hu_f49945e40d3ffa2b.jpg",
+    "250": "./images/027_hu_7b1fecfc3fd12503.jpg",
+    "500": "./images/027_hu_4ca24985a395897.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-22T18:22:58+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/84",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/027.jpg",
+    "height": 863,
+    "name": "027.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/028_hu_b22d716a23eba6cb.jpg",
+    "20": "./images/028_hu_7699e225c1210260.jpg",
+    "250": "./images/028_hu_c256f2eeeb9d2407.jpg",
+    "500": "./images/028_hu_a840800c0701df3d.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-22T18:24:07+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/99",
+        "FNumber": "12/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 1.54mm f/2.4"
+      }
+    },
+    "full": "./images/028.jpg",
+    "height": 863,
+    "name": "028.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/029_hu_3fe8fff9a951301f.jpg",
+    "20": "./images/029_hu_57bd69aebe2f9eab.jpg",
+    "250": "./images/029_hu_9e81ae654125e4b6.jpg",
+    "500": "./images/029_hu_ccd5537255e945c0.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-22T19:34:39+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/164",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/029.jpg",
+    "height": 863,
+    "name": "029.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/030_hu_438db5dd30ec617e.jpg",
+    "20": "./images/030_hu_9bc0021c6f4ae70.jpg",
+    "250": "./images/030_hu_cc773d2542550885.jpg",
+    "500": "./images/030_hu_43fe79680ac62733.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-22T20:04:26+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/81",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/030.jpg",
+    "height": 863,
+    "name": "030.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/031_hu_941b0f52a0fb5256.jpg",
+    "20": "./images/031_hu_d3c1ef537f9d9078.jpg",
+    "250": "./images/031_hu_e57f8effbe4d6543.jpg",
+    "500": "./images/031_hu_1a290b53ad26aacf.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-22T20:05:08+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/75",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/031.jpg",
+    "height": 863,
+    "name": "031.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/032_hu_1ae649de76b6a0eb.jpg",
+    "20": "./images/032_hu_50eeb191bb5050c6.jpg",
+    "250": "./images/032_hu_fdb3f654de5bf1af.jpg",
+    "500": "./images/032_hu_cf86f365112b356c.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-22T21:47:05+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/30",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/032.jpg",
+    "height": 863,
+    "name": "032.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/033_hu_e23de16ef3ce063f.jpg",
+    "20": "./images/033_hu_56b751aa96e4e27c.jpg",
+    "250": "./images/033_hu_e975114e9b12eaf9.jpg",
+    "500": "./images/033_hu_215d795ac833d224.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-22T21:47:40+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/30",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/033.jpg",
+    "height": 1150,
+    "name": "033.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/034_hu_56234cb25992c79a.jpg",
+    "20": "./images/034_hu_211bf415122f4263.jpg",
+    "250": "./images/034_hu_7b83057d790268ae.jpg",
+    "500": "./images/034_hu_d84d538197e8e88d.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-22T21:48:01+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/31",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/034.jpg",
+    "height": 1150,
+    "name": "034.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/035_hu_ba8b5208a8e201be.jpg",
+    "20": "./images/035_hu_74ff0fed96608268.jpg",
+    "250": "./images/035_hu_d71a74e9f919965.jpg",
+    "500": "./images/035_hu_30729900e4576a0c.jpg",
+    "colors": [{}, {}],
+    "exif": {
+      "Date": "2023-06-22T21:49:08+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/30",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/035.jpg",
+    "height": 863,
+    "name": "035.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/036_hu_3af9738366b55bed.jpg",
+    "20": "./images/036_hu_8415735bb49f01ac.jpg",
+    "250": "./images/036_hu_7f96f4c24fdaa148.jpg",
+    "500": "./images/036_hu_dd681b1677ed5377.jpg",
+    "colors": [{}],
+    "exif": {
+      "Date": "2023-06-22T21:49:33+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/30",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/036.jpg",
+    "height": 1150,
+    "name": "036.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/037_hu_ae8b407003318388.jpg",
+    "20": "./images/037_hu_620c410bfee8683f.jpg",
+    "250": "./images/037_hu_5af38aef2f419a02.jpg",
+    "500": "./images/037_hu_fd8eb90b5addcb99.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T09:49:18+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/563",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/037.jpg",
+    "height": 1150,
+    "name": "037.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/038_hu_92d3dff93f4ae5b0.jpg",
+    "20": "./images/038_hu_a7396adf4b229a03.jpg",
+    "250": "./images/038_hu_e3341d156040455a.jpg",
+    "500": "./images/038_hu_9b404826c1352d77.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T10:01:22+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/983",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/038.jpg",
+    "height": 1150,
+    "name": "038.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/039_hu_f799ba6833b935d9.jpg",
+    "20": "./images/039_hu_721788c731ccd98c.jpg",
+    "250": "./images/039_hu_86ea07528f8fe6d4.jpg",
+    "500": "./images/039_hu_c9fcb9af3957d842.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T10:40:04+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/1252",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/039.jpg",
+    "height": 1150,
+    "name": "039.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/040_hu_10b9181cf7a5da80.jpg",
+    "20": "./images/040_hu_ec3c9ab4566ff13b.jpg",
+    "250": "./images/040_hu_144e6469ccc5b2b.jpg",
+    "500": "./images/040_hu_9cbf6fa807083f4f.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T11:16:05+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/1862",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/040.jpg",
+    "height": 1150,
+    "name": "040.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/041_hu_92fd841faeb7d61c.jpg",
+    "20": "./images/041_hu_97cb85b39ac8c7e.jpg",
+    "250": "./images/041_hu_cac7b24ce218bc5c.jpg",
+    "500": "./images/041_hu_f7fd01e7886de77.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T22:30:33+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/30",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/041.jpg",
+    "height": 1150,
+    "name": "041.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/042_hu_9708a1966b9ca043.jpg",
+    "20": "./images/042_hu_3d3387cd087caaef.jpg",
+    "250": "./images/042_hu_c06358952793c931.jpg",
+    "500": "./images/042_hu_6f5d842eae599dca.jpg",
+    "colors": [{}, {}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T08:33:36+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/266",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/042.jpg",
+    "height": 863,
+    "name": "042.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/043_hu_4e8cfece676bea5f.jpg",
+    "20": "./images/043_hu_f13b5dd1be94e42c.jpg",
+    "250": "./images/043_hu_cf97ab4819d35333.jpg",
+    "500": "./images/043_hu_4da867fd48fa99cc.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T08:35:46+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/172",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/043.jpg",
+    "height": 1150,
+    "name": "043.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/044_hu_bf7e09496aaed80a.jpg",
+    "20": "./images/044_hu_c512746d854b8307.jpg",
+    "250": "./images/044_hu_24b40e57b7a5280c.jpg",
+    "500": "./images/044_hu_9d94a4bbce2e81c7.jpg",
+    "colors": [{}, {}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T08:36:24+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/271",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/044.jpg",
+    "height": 1150,
+    "name": "044.jpg",
+    "width": 821
+  },
+  {
+    "100": "./images/045_hu_8fd2de613d96fec2.jpg",
+    "20": "./images/045_hu_2702a559432ec66.jpg",
+    "250": "./images/045_hu_b0ff5aa3623d8531.jpg",
+    "500": "./images/045_hu_29c2c0be9430fc6f.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T08:39:17+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/135",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/045.jpg",
+    "height": 1150,
+    "name": "045.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/046_hu_d5fa422bfebd5df1.jpg",
+    "20": "./images/046_hu_85d51fe5ed118e4a.jpg",
+    "250": "./images/046_hu_d609a7b5c567994b.jpg",
+    "500": "./images/046_hu_8d35568e67763203.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T08:42:09+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/1075",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/046.jpg",
+    "height": 1150,
+    "name": "046.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/047_hu_3e384f29e585d813.jpg",
+    "20": "./images/047_hu_10712b20e158ed10.jpg",
+    "250": "./images/047_hu_55252028997e6af5.jpg",
+    "500": "./images/047_hu_295c91af60f3b680.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T08:43:52+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/407",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/047.jpg",
+    "height": 863,
+    "name": "047.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/048_hu_2b2ed20b502da300.jpg",
+    "20": "./images/048_hu_ba191529a0b9240c.jpg",
+    "250": "./images/048_hu_c43cceb2b731a1a3.jpg",
+    "500": "./images/048_hu_6a00c3aa4885b5b1.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T08:44:21+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/99",
+        "FNumber": "12/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 1.54mm f/2.4"
+      }
+    },
+    "full": "./images/048.jpg",
+    "height": 1150,
+    "name": "048.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/049_hu_e50719e7be6b7342.jpg",
+    "20": "./images/049_hu_ad129aed445a9b20.jpg",
+    "250": "./images/049_hu_c20be7b5e874b464.jpg",
+    "500": "./images/049_hu_f0a859290f5e59d9.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T09:22:35+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/243",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/049.jpg",
+    "height": 863,
+    "name": "049.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/050_hu_97dc90cf4f25e2dc.jpg",
+    "20": "./images/050_hu_c206d8768acdcd22.jpg",
+    "250": "./images/050_hu_643f651630cf71c7.jpg",
+    "500": "./images/050_hu_79d65ab70e53e5be.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T09:33:29+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/502",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/050.jpg",
+    "height": 1150,
+    "name": "050.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/051_hu_83a4f5ba69844a8f.jpg",
+    "20": "./images/051_hu_bb11d6515967b010.jpg",
+    "250": "./images/051_hu_c3d1ed3a2ae93f3d.jpg",
+    "500": "./images/051_hu_e719311e3efb85e7.jpg",
+    "colors": [{}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T10:01:35+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/148",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/051.jpg",
+    "height": 1150,
+    "name": "051.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/052_hu_1f306cb23a7926f4.jpg",
+    "20": "./images/052_hu_4602fc5def310602.jpg",
+    "250": "./images/052_hu_17a1a1faec26290.jpg",
+    "500": "./images/052_hu_34792aad4c18e981.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T10:03:55+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/122",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/052.jpg",
+    "height": 1150,
+    "name": "052.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/053_hu_40cf338f177748ae.jpg",
+    "20": "./images/053_hu_c5981f5da5c262a6.jpg",
+    "250": "./images/053_hu_624513fd545ab42f.jpg",
+    "500": "./images/053_hu_257ebf57635a1b3e.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T10:06:37+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/99",
+        "FNumber": "12/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 1.54mm f/2.4"
+      }
+    },
+    "full": "./images/053.jpg",
+    "height": 1150,
+    "name": "053.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/054_hu_738824a5975358d7.jpg",
+    "20": "./images/054_hu_3595187e2342b189.jpg",
+    "250": "./images/054_hu_9e2846b954ab2260.jpg",
+    "500": "./images/054_hu_d77a364ec2d4dc.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T10:11:31+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/122",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/054.jpg",
+    "height": 1150,
+    "name": "054.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/055_hu_f1972dfa2af8c08e.jpg",
+    "20": "./images/055_hu_e08ecec63d9254d7.jpg",
+    "250": "./images/055_hu_b9a3b736bc1f8ed0.jpg",
+    "500": "./images/055_hu_30ae5066a29b5f8e.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T10:14:20+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/122",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/055.jpg",
+    "height": 863,
+    "name": "055.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/056_hu_944b526cb0297c6d.jpg",
+    "20": "./images/056_hu_3ccf017f09f17198.jpg",
+    "250": "./images/056_hu_9302d173296c03e8.jpg",
+    "500": "./images/056_hu_54e992e0f9a48ac4.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T10:14:49+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/121",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/056.jpg",
+    "height": 1150,
+    "name": "056.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/057_hu_72a8c6aec1b0e892.jpg",
+    "20": "./images/057_hu_962721b811800bf1.jpg",
+    "250": "./images/057_hu_5fcdc0493b81d799.jpg",
+    "500": "./images/057_hu_8c2eb45134ec2d59.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T16:24:27+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/122",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/057.jpg",
+    "height": 1150,
+    "name": "057.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/058_hu_f911fe22f8f76175.jpg",
+    "20": "./images/058_hu_4a57b20a589c70ca.jpg",
+    "250": "./images/058_hu_553b4a464d275186.jpg",
+    "500": "./images/058_hu_c91e13358b98b4a3.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T16:40:40+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/64",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/058.jpg",
+    "height": 1150,
+    "name": "058.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/059_hu_58c062400f4e8def.jpg",
+    "20": "./images/059_hu_c9f3f282abf0b440.jpg",
+    "250": "./images/059_hu_8fa795ed14d5abd.jpg",
+    "500": "./images/059_hu_eb8eb913b408e7dc.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T16:40:47+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/121",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/059.jpg",
+    "height": 1150,
+    "name": "059.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/060_hu_152f66372b1f4060.jpg",
+    "20": "./images/060_hu_a8301a7b7855ab82.jpg",
+    "250": "./images/060_hu_c882d9fde9678b34.jpg",
+    "500": "./images/060_hu_7da22dc7a4ed1359.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T16:44:39+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/121",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/060.jpg",
+    "height": 1150,
+    "name": "060.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/061_hu_772a3d6f7db28a9.jpg",
+    "20": "./images/061_hu_13b035e42d3931e3.jpg",
+    "250": "./images/061_hu_d7b1a0ed620c00e0.jpg",
+    "500": "./images/061_hu_e2987deec973fd56.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T16:59:45+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/86",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/061.jpg",
+    "height": 1150,
+    "name": "061.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/062_hu_b1cd8516ebec7318.jpg",
+    "20": "./images/062_hu_53f1cc09555cb442.jpg",
+    "250": "./images/062_hu_574465678692ec58.jpg",
+    "500": "./images/062_hu_38f0c688d1f78d29.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-24T19:55:17+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/78",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/062.jpg",
+    "height": 863,
+    "name": "062.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/063_hu_dd16868cdfaf00e9.jpg",
+    "20": "./images/063_hu_e6f3792203a74002.jpg",
+    "250": "./images/063_hu_1fbc9f7c24056a49.jpg",
+    "500": "./images/063_hu_f0f903717b90a740.jpg",
+    "colors": [{}, {}],
+    "exif": {
+      "Date": "2023-06-24T22:32:17+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "CompositeImageExposureTimes": "P�:#c��6.:�U",
+        "ExposureTime": "1/9",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/063.jpg",
+    "height": 1150,
+    "name": "063.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/064_hu_c952cd725248b40f.jpg",
+    "20": "./images/064_hu_ddca0b64c0d43cf1.jpg",
+    "250": "./images/064_hu_8cefee9a2d60c128.jpg",
+    "500": "./images/064_hu_e7b74f54cc599c19.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-25T09:28:08+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/412",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/064.jpg",
+    "height": 1150,
+    "name": "064.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/065_hu_f5fa0853fe3bb2c9.jpg",
+    "20": "./images/065_hu_7aa2cfb2e3a7e01f.jpg",
+    "250": "./images/065_hu_d0fcdf683253d16e.jpg",
+    "500": "./images/065_hu_9b4b6d9e2ea85622.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-25T10:39:14+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/657",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/065.jpg",
+    "height": 863,
+    "name": "065.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/066_hu_75b0053fb068f0bd.jpg",
+    "20": "./images/066_hu_b8e79567391b19f7.jpg",
+    "250": "./images/066_hu_3ff1e357f942099d.jpg",
+    "500": "./images/066_hu_76694d5c1c3f77bf.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-25T11:03:28+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/442",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/066.jpg",
+    "height": 1150,
+    "name": "066.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/067_hu_2d1eb5179bc1747f.jpg",
+    "20": "./images/067_hu_fa8459470edafa49.jpg",
+    "250": "./images/067_hu_c5c105713459962f.jpg",
+    "500": "./images/067_hu_f300c7093029b1c6.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-25T11:06:54+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/563",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/067.jpg",
+    "height": 863,
+    "name": "067.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/068_hu_5b5146e6ba142f4c.jpg",
+    "20": "./images/068_hu_ff7e6da8931af216.jpg",
+    "250": "./images/068_hu_222e7dc890b05de6.jpg",
+    "500": "./images/068_hu_e9720336ae04a82e.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-25T12:04:36+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/499",
+        "FNumber": "12/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 1.54mm f/2.4"
+      }
+    },
+    "full": "./images/068.jpg",
+    "height": 1150,
+    "name": "068.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/069_hu_3766248b9e13a6af.jpg",
+    "20": "./images/069_hu_5597ae42b5d23ab0.jpg",
+    "250": "./images/069_hu_af84fcbd5aed4967.jpg",
+    "500": "./images/069_hu_eeffbb9157583d7f.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-25T12:29:49+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/376",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/069.jpg",
+    "height": 1150,
+    "name": "069.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/070_hu_900cf3161d29dc13.jpg",
+    "20": "./images/070_hu_cda5cbfc31700cf1.jpg",
+    "250": "./images/070_hu_c30e9389368c916a.jpg",
+    "500": "./images/070_hu_78661ee69cae1788.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-25T16:21:23+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/928",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/070.jpg",
+    "height": 1150,
+    "name": "070.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/071_hu_affbcc91e093c652.jpg",
+    "20": "./images/071_hu_d5f8347fc087d235.jpg",
+    "250": "./images/071_hu_28c8589fa390767d.jpg",
+    "500": "./images/071_hu_6659f465c15de4d1.jpg",
+    "colors": [{}, {}, {}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-25T16:26:15+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/172",
+        "FNumber": "12/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 1.54mm f/2.4"
+      }
+    },
+    "full": "./images/071.jpg",
+    "height": 1150,
+    "name": "071.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/072_hu_84d4718ad85fbe7.jpg",
+    "20": "./images/072_hu_c1d0e2c12ebd9a0e.jpg",
+    "250": "./images/072_hu_71a4468e42cf5689.jpg",
+    "500": "./images/072_hu_ec1a5a8b2834c6c8.jpg",
+    "colors": [{}, {}, {}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-25T16:26:57+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/1309",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/072.jpg",
+    "height": 1150,
+    "name": "072.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/073_hu_580b9d7503a2409.jpg",
+    "20": "./images/073_hu_4a34f9f66c5a273a.jpg",
+    "250": "./images/073_hu_92145a1f58e3614a.jpg",
+    "500": "./images/073_hu_39ed2d742cb558e0.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-25T16:52:46+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/569",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/073.jpg",
+    "height": 1150,
+    "name": "073.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/074_hu_b1ab16d6732dc217.jpg",
+    "20": "./images/074_hu_6e7bade39480aaf5.jpg",
+    "250": "./images/074_hu_cd671673fa2d4f1b.jpg",
+    "500": "./images/074_hu_365a32f84eb9cedd.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-25T16:57:45+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/85",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/074.jpg",
+    "height": 1150,
+    "name": "074.jpg",
+    "width": 863
+  },
+  {
+    "100": "./images/075_hu_22b32142e29312eb.jpg",
+    "20": "./images/075_hu_779f9e8da9257180.jpg",
+    "250": "./images/075_hu_355c4f0b4126957d.jpg",
+    "500": "./images/075_hu_819151559ef9aa64.jpg",
+    "colors": [{}, {}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-25T20:09:54+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": {
+        "ExposureTime": "1/121",
+        "FNumber": "8/5",
+        "LensModel": "iPhone 13 mini back dual wide camera 5.1mm f/1.6"
+      }
+    },
+    "full": "./images/075.jpg",
+    "height": 863,
+    "name": "075.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/076_hu_6f033b84307c54b7.jpg",
+    "20": "./images/076_hu_11f7c8c19a924a27.jpg",
+    "250": "./images/076_hu_5c9814c888705fbf.jpg",
+    "500": "./images/076_hu_8fd6f372cf551cc8.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": { "Date": "0001-01-01T00:00:00Z", "Lat": 0, "Long": 0, "Tags": {} },
+    "full": "./images/076.jpg",
+    "height": 863,
+    "name": "076.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/077_hu_34fab8bc720373c8.jpg",
+    "20": "./images/077_hu_a100bf0ee6fb1e97.jpg",
+    "250": "./images/077_hu_a7a516e1abaad44e.jpg",
+    "500": "./images/077_hu_78c3ee15ceff9f6.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": { "Date": "0001-01-01T00:00:00Z", "Lat": 0, "Long": 0, "Tags": {} },
+    "full": "./images/077.jpg",
+    "height": 863,
+    "name": "077.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/078_hu_ba3fb01283a6b8eb.jpg",
+    "20": "./images/078_hu_cfd99dd13df9571e.jpg",
+    "250": "./images/078_hu_a83648722241a17.jpg",
+    "500": "./images/078_hu_a5ab79f273bbf8e9.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": { "Date": "0001-01-01T00:00:00Z", "Lat": 0, "Long": 0, "Tags": {} },
+    "full": "./images/078.jpg",
+    "height": 863,
+    "name": "078.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/079_hu_a46924c85df63d02.jpg",
+    "20": "./images/079_hu_24294c4e034c8e53.jpg",
+    "250": "./images/079_hu_2fec5da2c8023bc2.jpg",
+    "500": "./images/079_hu_f57bc8081bb89490.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T17:08:50+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/125", "FNumber": "19/5" }
+    },
+    "full": "./images/079.jpg",
+    "height": 767,
+    "name": "079.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/080_hu_71c69edf717176af.jpg",
+    "20": "./images/080_hu_9b380a8da6c76682.jpg",
+    "250": "./images/080_hu_164110b1d8cd0e39.jpg",
+    "500": "./images/080_hu_aa7f30914d06d137.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T17:15:26+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/160", "FNumber": "9/2" }
+    },
+    "full": "./images/080.jpg",
+    "height": 767,
+    "name": "080.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/081_hu_291528798d58521.jpg",
+    "20": "./images/081_hu_dabcf5f5ad1cf658.jpg",
+    "250": "./images/081_hu_f85d0eadcbddfd09.jpg",
+    "500": "./images/081_hu_5d93f57cac16533c.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T17:23:46+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/160", "FNumber": "7/2" }
+    },
+    "full": "./images/081.jpg",
+    "height": 767,
+    "name": "081.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/082_hu_e5063f1ff4501d8b.jpg",
+    "20": "./images/082_hu_dd64373053fa1fd1.jpg",
+    "250": "./images/082_hu_5125226c8f93c7db.jpg",
+    "500": "./images/082_hu_7115c14ed93b4362.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T17:25:59+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/250", "FNumber": "4" }
+    },
+    "full": "./images/082.jpg",
+    "height": 767,
+    "name": "082.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/083_hu_da801c7e7fc3f6b9.jpg",
+    "20": "./images/083_hu_ccabb1e2f46ba013.jpg",
+    "250": "./images/083_hu_91d848e97a1ffed2.jpg",
+    "500": "./images/083_hu_a1da1ca27c0a52f0.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T17:27:00+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/125", "FNumber": "28/5" }
+    },
+    "full": "./images/083.jpg",
+    "height": 767,
+    "name": "083.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/084_hu_4adaa2eacef6d1d5.jpg",
+    "20": "./images/084_hu_c3817d8418194249.jpg",
+    "250": "./images/084_hu_2fd8a047aec7e789.jpg",
+    "500": "./images/084_hu_250ab45b1f47b1fb.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T17:28:24+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/250", "FNumber": "7/2" }
+    },
+    "full": "./images/084.jpg",
+    "height": 767,
+    "name": "084.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/085_hu_8ccd65772cd384a4.jpg",
+    "20": "./images/085_hu_aadcbcb9d222ebcc.jpg",
+    "250": "./images/085_hu_34201bfa0e5c608b.jpg",
+    "500": "./images/085_hu_9489e7894e86ea04.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T17:34:10+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/250", "FNumber": "4" }
+    },
+    "full": "./images/085.jpg",
+    "height": 767,
+    "name": "085.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/086_hu_c90c3b0725315c0.jpg",
+    "20": "./images/086_hu_1bc39ab18a3e871c.jpg",
+    "250": "./images/086_hu_184ebddf39f66eee.jpg",
+    "500": "./images/086_hu_5930c3408c20895c.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T17:38:06+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/250", "FNumber": "21/5" }
+    },
+    "full": "./images/086.jpg",
+    "height": 767,
+    "name": "086.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/087_hu_7a420d848b4603a4.jpg",
+    "20": "./images/087_hu_281e3a3de72b96a3.jpg",
+    "250": "./images/087_hu_6234ceb649f25a28.jpg",
+    "500": "./images/087_hu_cc790244834c5da7.jpg",
+    "colors": [{}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T17:39:58+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/125", "FNumber": "9/2" }
+    },
+    "full": "./images/087.jpg",
+    "height": 767,
+    "name": "087.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/088_hu_8fc2cf226b597e68.jpg",
+    "20": "./images/088_hu_482d586dffea9d97.jpg",
+    "250": "./images/088_hu_a7a635f0ca57e590.jpg",
+    "500": "./images/088_hu_cbc21e0614326b2f.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T17:44:34+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/125", "FNumber": "9/2" }
+    },
+    "full": "./images/088.jpg",
+    "height": 1150,
+    "name": "088.jpg",
+    "width": 767
+  },
+  {
+    "100": "./images/089_hu_8e358a5a0d0f4495.jpg",
+    "20": "./images/089_hu_5e10a75819f58d2c.jpg",
+    "250": "./images/089_hu_44271ac872267a2a.jpg",
+    "500": "./images/089_hu_a14c93177bc919af.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T17:46:01+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/125", "FNumber": "4" }
+    },
+    "full": "./images/089.jpg",
+    "height": 767,
+    "name": "089.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/090_hu_3e3ac68283215791.jpg",
+    "20": "./images/090_hu_ce312aaa26d4f990.jpg",
+    "250": "./images/090_hu_9b9204d2a2f9871e.jpg",
+    "500": "./images/090_hu_dc7ea5aed3cbd368.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T17:48:17+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/125", "FNumber": "7/2" }
+    },
+    "full": "./images/090.jpg",
+    "height": 767,
+    "name": "090.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/091_hu_95e6e10fd8728fb2.jpg",
+    "20": "./images/091_hu_7988a8ecc6202cce.jpg",
+    "250": "./images/091_hu_107a2a9edd42a8c9.jpg",
+    "500": "./images/091_hu_ba905840d759edc8.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T17:59:49+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/250", "FNumber": "21/5" }
+    },
+    "full": "./images/091.jpg",
+    "height": 767,
+    "name": "091.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/092_hu_b21ff80f872b190d.jpg",
+    "20": "./images/092_hu_b22f8a10c6c61edb.jpg",
+    "250": "./images/092_hu_890dce79134800cd.jpg",
+    "500": "./images/092_hu_1cef42e15e694202.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T18:02:02+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/125", "FNumber": "4" }
+    },
+    "full": "./images/092.jpg",
+    "height": 767,
+    "name": "092.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/093_hu_4952cebeb5265776.jpg",
+    "20": "./images/093_hu_4657266cc4d413fb.jpg",
+    "250": "./images/093_hu_488f12b31777a69.jpg",
+    "500": "./images/093_hu_25734c7ddeecd70b.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T18:03:22+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/125", "FNumber": "7/2" }
+    },
+    "full": "./images/093.jpg",
+    "height": 1150,
+    "name": "093.jpg",
+    "width": 767
+  },
+  {
+    "100": "./images/094_hu_3f97ec035556637.jpg",
+    "20": "./images/094_hu_a33286182f55d903.jpg",
+    "250": "./images/094_hu_1650e4b2de94b156.jpg",
+    "500": "./images/094_hu_8c533f94eb83b55c.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T18:06:53+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/200", "FNumber": "28/5" }
+    },
+    "full": "./images/094.jpg",
+    "height": 767,
+    "name": "094.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/095_hu_a9b6f729b72acd38.jpg",
+    "20": "./images/095_hu_51521dbe0a4e0304.jpg",
+    "250": "./images/095_hu_8b0bd2f0a149ea5c.jpg",
+    "500": "./images/095_hu_e77d0779e220966.jpg",
+    "colors": [{}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T18:08:52+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/250", "FNumber": "24/5" }
+    },
+    "full": "./images/095.jpg",
+    "height": 767,
+    "name": "095.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/096_hu_f2e69f0a492398de.jpg",
+    "20": "./images/096_hu_499e8270d4d94b06.jpg",
+    "250": "./images/096_hu_a3584f2f202afe26.jpg",
+    "500": "./images/096_hu_4c192213cb0e522a.jpg",
+    "colors": [{}, {}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T18:09:45+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/60", "FNumber": "10" }
+    },
+    "full": "./images/096.jpg",
+    "height": 767,
+    "name": "096.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/097_hu_4d3e69d57f810a76.jpg",
+    "20": "./images/097_hu_174d5e255fd762c1.jpg",
+    "250": "./images/097_hu_6f9e5965b8d7d0ba.jpg",
+    "500": "./images/097_hu_66881f4061708031.jpg",
+    "colors": [{}, {}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T18:10:52+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/200", "FNumber": "53/10" }
+    },
+    "full": "./images/097.jpg",
+    "height": 767,
+    "name": "097.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/098_hu_afba7514c9c4a5c8.jpg",
+    "20": "./images/098_hu_a65b5c64ce5af534.jpg",
+    "250": "./images/098_hu_d6c6b09ff74eab57.jpg",
+    "500": "./images/098_hu_74608377dac83abd.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T18:15:48+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/250", "FNumber": "7/2" }
+    },
+    "full": "./images/098.jpg",
+    "height": 767,
+    "name": "098.jpg",
+    "width": 1150
+  },
+  {
+    "100": "./images/099_hu_52c2280b688e125c.jpg",
+    "20": "./images/099_hu_acd4e8ecf483e8ee.jpg",
+    "250": "./images/099_hu_7ea1d891aa2e9e51.jpg",
+    "500": "./images/099_hu_9e1fe874f7076144.jpg",
+    "colors": [{}, {}, {}, {}, {}],
+    "exif": {
+      "Date": "2023-06-23T18:18:56+02:00",
+      "Lat": 0,
+      "Long": 0,
+      "Tags": { "ExposureTime": "1/80", "FNumber": "5" }
+    },
+    "full": "./images/099.jpg",
+    "height": 767,
+    "name": "099.jpg",
+    "width": 1150
+  }
+]
